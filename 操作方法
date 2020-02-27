@@ -1,0 +1,10 @@
+添加 ： git add .
+     ： git commit -m ""
+     :  git push
+删除 ： git rm -f 名字
+     ： git commit -m ""
+     :  git push
+
+     git pull
+     git status
+
