@@ -1,0 +1,5 @@
+git add 名字
+git commmit -m ""
+git push
+git rm- f 名字
+git pull
